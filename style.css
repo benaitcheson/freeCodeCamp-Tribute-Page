@@ -1,0 +1,31 @@
+#main {
+    margin: auto;
+    width: 70%;
+    font-family: ui-sans-serif, system-ui;
+}
+
+#title {
+    text-align: center;
+}
+
+@media screen and (min-width: 601px) {
+    #image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 245px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+    }
+}
+
+#img-caption {
+    text-align: center;
+}
