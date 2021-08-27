@@ -1,9 +1,9 @@
 # freeCodeCamp-Tribute-Page
-First of many freeCodeCamp Projects to build
+First of many freeCodeCamp Projects to build.
 
 This is the Readme for my first freeCodeCamp project.
 
-These are the requirements for this project and
+These are the requirements for this project. You can view the live demo on [Codepen here](https://codepen.io/benaitcheson/pen/GREJxYw).
 
 - [x] ~~**User Story #1:** My tribute page should have an element with a corresponding id="main", which contains all other elements.~~
 
